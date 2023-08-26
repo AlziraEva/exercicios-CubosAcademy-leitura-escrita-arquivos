@@ -1,0 +1,26 @@
+[
+    {
+        "cep": "55770-000",
+        "logradouro": "",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "Vertentes",
+        "uf": "PE",
+        "ibge": "2616209",
+        "gia": "",
+        "ddd": "81",
+        "siafi": "2623"
+    },
+    {
+        "cep": "01001-000",
+        "logradouro": "Praça da Sé",
+        "complemento": "lado ímpar",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    }
+]
